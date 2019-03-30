@@ -1,0 +1,2 @@
+module SearchMoviesHelper
+end

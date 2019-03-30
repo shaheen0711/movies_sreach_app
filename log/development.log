@@ -1,0 +1,3924 @@
+  [4;36;1mSQL (120.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (4.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:35:46) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:14) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:15) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:15) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:15) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:16) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:16) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:24) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:25) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:37:26) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:23) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:24) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:24) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:24) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:24) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:25) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:25) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:25) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:25) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:25) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:26) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:26) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:38:26) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:09) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:09) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:09) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:10) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:10) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:10) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:10) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:10) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:11) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:11) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:11) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:11) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:12) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:38) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:38) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:39) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:39) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:39) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:39) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:50) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:51) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:51) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:52) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:52) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:53) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:53) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:53) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:53) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:55) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:55) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:40:55) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:41:00) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:41:00) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:41:01) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:41:15) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:41:16) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:41:16) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:55) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:55) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:56) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:56) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:56) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:56) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:43:57) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:05) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:06) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:07) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:08) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:08) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:28) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:28) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:29) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:29) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:29) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:29) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:29) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:29) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:30) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:30) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:30) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:30) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:30) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:30) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:31) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:31) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:31) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:31) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:31) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:32) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:32) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 14:44:32) [GET]
+
+ActionController::RoutingError (No route matches "/search_moives" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:14) [GET]
+Rendering search_movies/index
+Completed in 29ms (View: 26, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:35) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:35) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:35) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:36) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:36) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:36) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:36) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:36) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:36) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:37) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:37) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:39) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:52) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:46:52) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:03) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:03) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:03) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:04) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:04) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:04) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:04) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:04) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:04) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:05) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:06) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:06) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:06) [GET]
+Rendering search_movies/index
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:07) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:07) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:07) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:08) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:48:10) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:51:35) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `text' for #<ActionView::Helpers::FormBuilder:0x7f188b549e30>) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text  %>
+4:         <%#= text_box_tag "" %>
+5:         <%= link_to "search"   %>
+6: <% end %>
+
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.4ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:51:53) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (wrong number of arguments (0 for 1)) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_area  %>
+4:         <%#= text_box_tag "" %>
+5:         <%= link_to "search"   %>
+6: <% end %>
+
+    app/views/search_movies/index.erb:3:in `text_area'
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:51:54) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (wrong number of arguments (0 for 1)) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_area  %>
+4:         <%#= text_box_tag "" %>
+5:         <%= link_to "search"   %>
+6: <% end %>
+
+    app/views/search_movies/index.erb:3:in `text_area'
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:51:54) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (wrong number of arguments (0 for 1)) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_area  %>
+4:         <%#= text_box_tag "" %>
+5:         <%= link_to "search"   %>
+6: <% end %>
+
+    app/views/search_movies/index.erb:3:in `text_area'
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:51:55) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (wrong number of arguments (0 for 1)) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_area  %>
+4:         <%#= text_box_tag "" %>
+5:         <%= link_to "search"   %>
+6: <% end %>
+
+    app/views/search_movies/index.erb:3:in `text_area'
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.6ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:51:55) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (wrong number of arguments (0 for 1)) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_area  %>
+4:         <%#= text_box_tag "" %>
+5:         <%= link_to "search"   %>
+6: <% end %>
+
+    app/views/search_movies/index.erb:3:in `text_area'
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:53:39) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `test_area' for #<ActionView::Helpers::FormBuilder:0x7f188b2f9f68>) on line #4 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_area "title"  %>
+4:         <%= f.test_area "year" %>
+5:         <%#= text_box_tag "" %>
+6:         <%= link_to "search"   %>
+7: <% end %>
+
+    app/views/search_movies/index.erb:4
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (63.0ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:53:54) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 1) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:54:13) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `text_input' for #<ActionView::Helpers::FormBuilder:0x7f188b3a2348>) on line #3 of app/views/search_movies/index.erb:
+1:     <div class="sreach_box">
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_input "title"  %>
+4:         <%= f.text_input "year" %>
+5:         <%#= text_box_tag "" %>
+6:         <%= link_to "search"   %>
+
+    app/views/search_movies/index.erb:3
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:55:04) [GET]
+Rendering search_movies/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:27) [GET]
+Rendering search_movies/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:28) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:30) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:30) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:30) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:30) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:30) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:57:30) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:26) [GET]
+Rendering search_movies/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:27) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:27) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:28) [GET]
+Rendering search_movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:28) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 1) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:28) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:34) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:35) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:35) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 14:58:44) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:12) [GET]
+Rendering search_movies/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:13) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:13) [GET]
+Rendering search_movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:13) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:13) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:13) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:14) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:14) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:14) [GET]
+Rendering search_movies/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:14) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:14) [GET]
+Rendering search_movies/index
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:15) [GET]
+Rendering search_movies/index
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:15) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:15) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 2, DB: 1) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:15) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:15) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:15) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:02:16) [GET]
+Rendering search_movies/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:02:17) [GET]
+
+ActionView::MissingTemplate (Missing template search_movies/search.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:03:40) [GET]
+Rendering search_movies/search
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies/search]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:03:47) [GET]
+Rendering search_movies/search
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies/search]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:06:18) [GET]
+Rendering search_movies/search
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies/search]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:06:19) [GET]
+Rendering search_movies/search
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies/search]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:06:20) [GET]
+Rendering search_movies/search
+Completed in 1ms (View: 0, DB: 0) | 200 OK [http://localhost/search_movies/search]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:06:21) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (61.2ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:07:07) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:33) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:33) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (64.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:33) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:34) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:34) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (64.0ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:34) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:34) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:35) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (75.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:35) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.4ms)
+Rendered rescues/_request_and_response (0.8ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:35) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:35) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:36) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.1ms)
+Rendered rescues/_request_and_response (1.0ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:36) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (22.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:36) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (25.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:36) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (64.1ms)
+Rendered rescues/_request_and_response (0.6ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:36) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:39) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (25.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:39) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.8ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:39) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (62.0ms)
+Rendered rescues/_request_and_response (0.5ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:40) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.8ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:40) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (27.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:40) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (67.8ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:40) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:41) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (25.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:41) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:41) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (64.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:41) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:42) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:54) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (63.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:55) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (22.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:55) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (28.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:55) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (70.2ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:08:56) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" ,search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (22.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:09:31) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" , search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:09:33) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:   <% form_for :search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" , search_search_movies_path %>
+6: <% end %>
+7:     </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (69.7ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:10:16) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (Called id for nil, which would mistakenly be 4 -- if you really wanted the id of nil, use object_id) on line #2 of app/views/search_movies/index.erb:
+1:     <div class="search_box">
+2:   <% form_for @search do |f| %>
+3:         <%= f.text_field "title"  %>
+4:         <%= f.text_field "year" %>
+5:         <%= f.submit "search" , search_search_movies_path %>
+
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (62.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:11:36) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.7ms)
+Rendered rescues/_request_and_response (0.6ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:03) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:03) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:04) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:04) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.7ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:04) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (62.2ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:05) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (64.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.8ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (25.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.2ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:10) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:10) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (68.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:10) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (22.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:11) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:11) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:11) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (61.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:11) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (28.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (69.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (22.7ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:13) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:12:13) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field "title"  %>
+4:       <%= f.text_field "year" %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (62.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:02) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (29.7ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:04) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (66.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:05) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (68.4ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:05) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:07) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:07) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (63.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.8ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (26.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (63.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:08) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (63.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (64.2ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:09) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (24.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:10) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (25.2ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:10) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (63.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (58.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (23.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (28.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:12) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (65.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:13) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (25.0ms)
+Rendered rescues/_request_and_response (0.6ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:13) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (27.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:13:13) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (67.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:14:02) [GET]
+Rendering search_movies/index
+
+ActionView::TemplateError (undefined method `reverse_merge' for "/search_movies/search":String) on line #5 of app/views/search_movies/index.erb:
+2:     <% remote_form_for :search do |f| %>
+3:       <%= f.text_field :title  %>
+4:       <%= f.text_field :year %>
+5:       <%= f.submit "search" , search_search_movies_path %>
+6:     <% end %>
+7: </div>
+
+    app/views/search_movies/index.erb:5
+    app/views/search_movies/index.erb:2
+
+Rendered rescues/_trace (22.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:17:11) [GET]
+Rendering search_movies/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#create (for 127.0.0.1 at 2019-03-30 15:17:18) [POST]
+  Parameters: {"authenticity_token"=>"tpyuc8cfBn02zwF1vqvVBpGzbd3dZf7rkMzhz3JSsy8=", "search"=>{"year"=>"", "title"=>"ggggg"}, "commit"=>"search"}
+
+ActionController::UnknownAction (No action responded to create. Actions: index and search):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:18:52) [GET]
+Rendering search_movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:19:11) [GET]
+Rendering search_movies/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#search (for 127.0.0.1 at 2019-03-30 15:19:16) [POST]
+  Parameters: {"authenticity_token"=>"tpyuc8cfBn02zwF1vqvVBpGzbd3dZf7rkMzhz3JSsy8=", "search"=>{"year"=>"", "title"=>""}, "commit"=>"search"}
+Rendering search_movies/search
+Completed in 2ms (View: 1, DB: 0) | 200 OK [http://localhost/search_movies/search]
+  [4;36;1mSQL (0.0ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:21:30) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (56.9ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:19) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (19.3ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:20) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (17.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:20) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (20.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:21) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (19.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:21) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (58.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:21) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (20.6ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:21) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (59.1ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:21) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (18.0ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:21) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (22.5ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:22) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (20.2ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2019-03-30 15:22:22) [GET]
+
+SyntaxError (/home/shaheen/movies_search_app/app/controllers/search_movies_controller.rb:11: syntax error, unexpected kEND):
+  
+
+Rendered rescues/_trace (18.6ms)
+Rendered rescues/_request_and_response (0.2ms)
+Rendering rescues/layout (internal_server_error)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:22:39) [GET]
+Rendering search_movies/index
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:32:14) [GET]
+Rendering search_movies/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:32:58) [GET]
+Rendering search_movies/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.0ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:37:03) [GET]
+Rendering search_movies/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#convert_url (for 127.0.0.1 at 2019-03-30 15:37:08) [POST]
+  Parameters: {"authenticity_token"=>"tpyuc8cfBn02zwF1vqvVBpGzbd3dZf7rkMzhz3JSsy8=", "search"=>{"long_url"=>"ggg"}, "commit"=>"convert"}
+
+ActionController::UnknownAction (No action responded to convert_url. Actions: index, search_by_title, search_by_year, and url_convertion):
+  
+
+Rendering rescues/layout (not_found)
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#index (for 127.0.0.1 at 2019-03-30 15:37:36) [GET]
+Rendering search_movies/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/search_movies]
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing SearchMoviesController#convert_url (for 127.0.0.1 at 2019-03-30 15:37:37) [POST]
+  Parameters: {"authenticity_token"=>"tpyuc8cfBn02zwF1vqvVBpGzbd3dZf7rkMzhz3JSsy8=", "search"=>{"long_url"=>""}, "commit"=>"convert"}
+
+ActionView::MissingTemplate (Missing template search_movies/convert_url.erb in view path app/views):
+  
+
+Rendering rescues/layout (internal_server_error)

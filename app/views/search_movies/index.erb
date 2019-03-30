@@ -1,0 +1,23 @@
+<div class="search_box">
+    <%= "Search By Title" %>
+    <% form_for :search, :url => {:controller => "search_movies" ,:action => "search_by_title"} do  |f| %>
+      <%= f.text_field :title  %>
+      <%= f.submit "search" %>
+    <% end %>
+    <%= "Search By year" %>
+     <% form_for :search, :url => {:controller => "search_movies" ,:action => "search_by_year"} do  |f| %>
+    
+      <%= f.text_field :year %>
+      <%= f.submit "search" %>
+    <% end %>
+    
+    
+     <%= "Convert Your Url here" %>
+     <% form_for :search, :url => {:controller => "search_movies" ,:action => "convert_url"} do  |f| %>
+    
+      <%= f.text_field :long_url %>
+      <%= f.submit "convert" %>
+    <% end %>
+    
+    
+</div>
